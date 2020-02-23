@@ -46,3 +46,4 @@ flamingoclient/Bin/Logs/
 *.user
 *.dep
 *.map
+.vs/
